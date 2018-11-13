@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/_20dp"
+    android:background="@drawable/shape"
+    android:layout_margin="@dimen/_10dp">
+    <TextView
+        android:id="@+id/buyPlanTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/plan_nominator_rename"
+        android:textColor="@color/SkyBlue"
+        android:textSize="@dimen/_18sp"/>
+    <EditText
+        android:id="@+id/buyPlanET"
+        android:layout_below="@id/buyPlanTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textCapWords"
+        android:background="@drawable/shape"
+        android:layout_marginTop="@dimen/_10dp" />
+    <Button
+        android:id="@+id/continueBT"
+        android:layout_below="@id/buyPlanET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/continue_val"
+        android:textAllCaps="false"
+        android:textSize="@dimen/_20sp"
+        android:textColor="@color/white"
+        android:background="@drawable/button_selector"
+        android:layout_marginTop="@dimen/_30dp"/>
+
+
+</RelativeLayout>

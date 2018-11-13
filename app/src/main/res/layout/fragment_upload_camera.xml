@@ -1,0 +1,136 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <SurfaceView
+        android:id="@+id/camera_preview_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/cameraToolsLL" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/cameraToolsLL"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/takenPhoto1IV"
+            android:layout_width="@dimen/_70dp"
+            android:layout_height="@dimen/_70dp"
+            android:layout_alignParentRight="true"
+            android:layout_margin="@dimen/_2dp"
+            android:layout_toRightOf="@+id/capture_image_button" />
+
+        <ImageView
+            android:id="@+id/takenPhoto2IV"
+            android:layout_width="@dimen/_70dp"
+            android:layout_height="@dimen/_70dp"
+            android:layout_alignParentRight="true"
+            android:layout_margin="@dimen/_2dp"
+            android:layout_toRightOf="@+id/capture_image_button" />
+
+        <ImageView
+            android:id="@+id/takenPhoto3IV"
+            android:layout_width="@dimen/_70dp"
+            android:layout_height="@dimen/_70dp"
+            android:layout_alignParentRight="true"
+            android:layout_margin="@dimen/_2dp"
+            android:layout_toRightOf="@+id/capture_image_button" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/cameraToolsLL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/black"
+        android:padding="@dimen/_5dp"
+        android:weightSum="3">
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/change_camera"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_gravity="center"
+                android:layout_toLeftOf="@+id/capture_image_button"
+                android:src="@mipmap/toggle" />
+
+        </FrameLayout>
+
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/capture_image_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/camera" />
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/doneBT"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/button_selector"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:padding="@dimen/_8dp"
+                android:text="@string/done_capital_d"
+                android:textAllCaps="false"
+                android:textColor="@color/white" />
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/saveToolBarRL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/black"
+        android:clickable="true"
+        android:padding="@dimen/_5dp"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/saveIV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_50dp"
+            android:minHeight="@dimen/_50dp"
+            android:padding="@dimen/_10dp"
+            android:src="@mipmap/tick" />
+
+        <ImageView
+            android:id="@+id/cancelIV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/_50dp"
+            android:padding="@dimen/_10dp"
+            android:src="@mipmap/cross" />
+    </RelativeLayout>
+
+</RelativeLayout>

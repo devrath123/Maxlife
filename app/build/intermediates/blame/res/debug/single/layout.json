@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/adapter_home.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/adapter_home.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/767e1754d57c5c2391fbf1c3536f0c2184466635/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/d4aa7132ff2399c0a5f60283ec36e145d5f9698b/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/767e1754d57c5c2391fbf1c3536f0c2184466635/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/list_item_camera.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/MulipleImageSelector/build/intermediates/bundles/default/res/layout/list_item_camera.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/fragment_profile.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/d4aa7132ff2399c0a5f60283ec36e145d5f9698b/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/plan_list_item.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/plan_list_item.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/dialog_image.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/dialog_image.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/activity_subscription.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/activity_subscription.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/dialog_enter_email.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/dialog_enter_email.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/activity_sign_up.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/d4aa7132ff2399c0a5f60283ec36e145d5f9698b/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/cmp_customer_actionbar.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/MulipleImageSelector/build/intermediates/bundles/default/res/layout/cmp_customer_actionbar.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/d4aa7132ff2399c0a5f60283ec36e145d5f9698b/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/fragment_change_password.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/fragment_upload_new.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/fragment_upload_new.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/fragment_profile_edit.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/fragment_profile_edit.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/767e1754d57c5c2391fbf1c3536f0c2184466635/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/social_facebook_login.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/social_facebook_login.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/767e1754d57c5c2391fbf1c3536f0c2184466635/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/fragment_update_confirm.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/fragment_update_confirm.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/fragment_upload_confirm.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/fragment_upload_confirm.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/dialog_rename.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/dialog_rename.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/d4aa7132ff2399c0a5f60283ec36e145d5f9698b/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/fragment_home.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/767e1754d57c5c2391fbf1c3536f0c2184466635/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/activity_default.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/MulipleImageSelector/build/intermediates/bundles/default/res/layout/activity_default.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/767e1754d57c5c2391fbf1c3536f0c2184466635/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/d4aa7132ff2399c0a5f60283ec36e145d5f9698b/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/adapter_navigation_list.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/adapter_navigation_list.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/d4aa7132ff2399c0a5f60283ec36e145d5f9698b/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/fragment_upload_gallery.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/fragment_upload_gallery.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/d4aa7132ff2399c0a5f60283ec36e145d5f9698b/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/fragment_upload_camera.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/fragment_upload_camera.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/activity_forgot_password.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/activity_subscription_code.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/activity_subscription_code.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/767e1754d57c5c2391fbf1c3536f0c2184466635/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/d4aa7132ff2399c0a5f60283ec36e145d5f9698b/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/list_item_image.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/MulipleImageSelector/build/intermediates/bundles/default/res/layout/list_item_image.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/d4aa7132ff2399c0a5f60283ec36e145d5f9698b/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/dialog_save_video.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/dialog_save_video.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/fragment_upload_text.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/fragment_upload_text.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/dialog_buy_plan_for.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/dialog_buy_plan_for.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/fragment_settings.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/767e1754d57c5c2391fbf1c3536f0c2184466635/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/d4aa7132ff2399c0a5f60283ec36e145d5f9698b/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/fragment_full_screen_image.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/fragment_full_screen_image.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/fragment_about_us.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/fragment_about_us.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/adapter_gallery.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/src/main/res/layout/adapter_gallery.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/767e1754d57c5c2391fbf1c3536f0c2184466635/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/layout/list_item_folder.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/MulipleImageSelector/build/intermediates/bundles/default/res/layout/list_item_folder.xml"
+    }
+]

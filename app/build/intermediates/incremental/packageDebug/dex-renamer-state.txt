@@ -1,0 +1,7 @@
+#Sun Nov 04 23:25:07 IST 2018
+base.0=/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e946ef7b941b2065361213646e4a1976694ea71
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3007c717c6f945e25b562a9fad82610d895e0b16/classes.dex
+base.1=/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3007c717c6f945e25b562a9fad82610d895e0b16
+file.0=/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e946ef7b941b2065361213646e4a1976694ea71/classes.dex

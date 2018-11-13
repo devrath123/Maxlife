@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/devrathrathee/Desktop/Source Codes/Max Life/MulipleImageSelector/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/values-h320dp/values-h320dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 57,
+                        "endOffset": 284
+                    }
+                }
+            }
+        ]
+    }
+]

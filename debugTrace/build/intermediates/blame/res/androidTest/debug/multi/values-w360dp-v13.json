@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/local/TOXSL/kajal.rawal/Workspace/Max Life/debugTrace/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/home/local/TOXSL/kajal.rawal/.android/build-cache/a628e5a016b9f68dfdbcaa2b440332ac5aad68e6/output/res/values-w360dp/values-w360dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 54,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    }
+]

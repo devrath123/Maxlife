@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:background="@color/black">
+    <TextView
+        android:id="@+id/planNameTV"
+        android:textColor="@color/white"
+        android:paddingLeft="@dimen/_25dp"
+        android:paddingTop="@dimen/_5dp"
+        android:paddingBottom="@dimen/_5dp"
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:gravity="left"
+        android:text="My Plan A"
+        android:textSize="@dimen/_18sp"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:id="@+id/planEditIV"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@mipmap/ic_edit_nav"
+        android:paddingRight="@dimen/_30dp"
+        android:paddingLeft="@dimen/_30dp"/>
+
+</LinearLayout>
+

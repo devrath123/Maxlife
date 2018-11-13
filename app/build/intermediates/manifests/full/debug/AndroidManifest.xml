@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.maxlife"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.SEND" />
+
+    <application
+        android:name="com.maxlife.data.ApplicationData"
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/MyAppTheme" >
+        <receiver
+            android:name="com.google.android.gms.gcm.GcmReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.maxlife.gcm" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.maxlife.MyGcmListenerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.maxlife.MyInstanceIDListenerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
+        <!-- [END instanceId_listener] -->
+        <service
+            android:name="com.maxlife.MyRegistrationIntentService"
+            android:exported="false" />
+
+        <activity
+            android:name="com.maxlife.activity.SplashActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.maxlife.customvideorecorder.CameraActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.maxlife.activity.MainActivity"
+            android:configChanges="orientation|keyboardHidden|screenLayout|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.maxlife.activity.UploadActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.maxlife.activity.SignInActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.maxlife.activity.SignUpActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.maxlife.activity.ForgotPasswordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.maxlife.activity.SubscriptionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.maxlife.activity.SubscriptionCodeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.maxlife.socialLogin.FacebookLogin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.maxlife.activity.PaypalPaymentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.paypal.android.sdk.payments.FuturePaymentInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.paypal.android.sdk.payments.PayPalFuturePaymentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.paypal.android.sdk.payments.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.paypal.android.sdk.payments.FuturePaymentConsentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.paypal.android.sdk.payments.PaymentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.paypal.android.sdk.payments.PaymentConfirmActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.paypal.android.sdk.payments.PaymentMethodActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="io.card.payment.CardIOActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="io.card.payment.DataEntryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="me.nereo.multi_image_selector.MultiImageSelectorActivity"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name="com.paypal.android.sdk.payments.PayPalService"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/fb_app_id" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:label="Login" />
+
+        <service android:name="com.maxlife.service.DownloadService" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.maxlife.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.toxsl.trace.TraceActivity"
+            android:label="@string/app_name" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,215 @@
+<resources>
+    <string name="app_name">MaxLife</string>
+
+    <string name="network_connection">Network Connection</string>
+    <string name="you_are_not_connected_to_any_network_press_ok_to_change_settings">You are not connected to any network.Press OK to change settings</string>
+    <string name="ok_button">OK</string>
+    <string name="exit">Exit</string>
+
+
+    <string name="problem_connecting_to_the_server">Problem connecting to server,please try later.</string>
+    <string name="bad_request">" Bad request,please try again."</string>
+    <string name="session_timeout_redirecting">Session timeout, Redirecting to login</string>
+    <string name="request_timeout_slow_connection">"Request Timeout\nMaybe due to slow connection"</string>
+    <string name="netwrk_status">Network Status</string>
+    <string name="retry">Retry</string>
+
+    <string-array name="NavigationMenu">
+        <item>Home</item>
+        <item>Settings</item>
+        <item>About Us</item>
+        <item>Logout</item>
+        <item>Upgrade</item>
+    </string-array>
+
+    <string-array name="repeat_daily_string_array">
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>3 days</item>
+        <item>4 days</item>
+        <item>5 days</item>
+        <item>6 days</item>
+    </string-array>
+
+    <string-array name="repeat_weekly_string_array">
+        <item>1 week</item>
+        <item>2 weeks</item>
+        <item>3 weeks</item>
+        <item>4 weeks</item>
+    </string-array>
+
+    <string-array name="repeat_monthly_string_array">
+        <item>1 month</item>
+        <item>2 months</item>
+        <item>3 months</item>
+        <item>4 months</item>
+        <item>5 months</item>
+        <item>6 months</item>
+        <item>7 months</item>
+        <item>8 months</item>
+        <item>9 months</item>
+        <item>10 months</item>
+        <item>11 months</item>
+    </string-array>
+
+    <string name="permissions_denied">Permissions Denied</string>
+    <string name="not_sufficient_permissions">Not sufficient permissions \nGoto Settings></string>
+    <string name="permissionss">>Permissions</string>
+
+    <string name="pay">Payment Successful</string>
+
+    <string name="free_plan">Free Plan</string>
+
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="are_you_sure_you_want_to_exit">Are you sure want to exit?</string>
+    <string name="out_of_memory">Out Of Memory</string>
+    <string name="set_email_frequency">Set Email Frequency</string>
+
+    <string name="fb_app_id">250728812071538</string>
+    <string name="please_select_some_other_image_this_image_is_not_valid">Please select some other image. This image is not valid</string>
+    <string name="please_check_your_email_address">Please check your email address</string>
+    <string name="Please_enter_email_address">Please enter email address</string>
+    <string name="email_not_valid">Email address is not valid</string>
+    <string name="please_enter_email_address">Please enter email address</string>
+    <string name="email_is_not_valid">Email is not valid</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="please_enter_first_name">Please enter first name</string>
+    <string name="please_enter_last_name">Please enter last name</string>
+    <string name="please_enter_nominated_email_address">Please enter nominated email address</string>
+    <string name="nominated_email_is_not_valid">Nominated email is not valid</string>
+    <string name="please_enter_confirm_password">Please enter confirm password</string>
+    <string name="password_and_confirm_password_doest_match">Password and Confirm Password doesn\'t match</string>
+    <string name="only_3_images_are_allowed">Only 3 images are allowed</string>
+    <string name="not_valid_video">Not valid Video</string>
+    <string name="image_duration_should_be_less_than_3_minutes">Image duration should be less than 3 minutes</string>
+    <string name="try_again">Try again...</string>
+    <string name="please_enter_old_password">Please enter old password</string>
+    <string name="please_enter_new_password">Please enter new password</string>
+    <string name="new_password_and_retype_password_doest_match">New Password and retype password does\'t match</string>
+    <string name="profile_successfully_updated">Profile successfully updated</string>
+    <string name="no_image_found">No image found</string>
+    <string name="please_upload_photo">Please upload photo</string>
+    <string name="something_gets_wrong_please_go_to_home_screen_and_then_try_again">Something gets wrong, Please go to home screen and then try again</string>
+    <string name="your_post_is_saved_successfully">Your post is saved successfully.</string>
+    <string name="video_not_uploaded_for_some_reason">Video not uploaded for some reason</string>
+    <string name="please_enter_message_to_post">Please enter message to post</string>
+    <string name="maximum_50000_characters_allowed">Maximum 50000 characters allowed</string>
+    <string name="maximum_10000_characters_allowed">Maximum 10000 characters allowed</string>
+    <string name="post_not_added">Post not added</string>
+    <string name="please_select_images_to_upload">Please select images to upload</string>
+    <string name="please_select_video_to_upload">Please select video to upload</string>
+    <string name="done">done</string>
+    <string name="profile">profile</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="enter_email_below_and_we_will_email_you_to_set_a_new_password">Enter email below and we will email you to set a new password.</string>
+    <string name="email_address">Email address</string>
+    <string name="done_capital_d">Done</string>
+    <string name="view_profile">View Profile</string>
+    <string name="remember_password">Remember password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or">Or</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="nominated_email">Nominated Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="video_limit">Video Limit</string>
+    <string name="_3_minutes">3 Minute</string>
+    <string name="pictures_limit">Pictures Limit</string>
+    <string name="_3_pictures">3 pictures</string>
+    <string name="text_limit">Text Limit</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="repeat">Repeat</string>
+    <string name="change_password">Change Password</string>
+    <string name="post">Post</string>
+    <string name="add_text">Add Text</string>
+    <string name="loading">The system is loading, please wait </string>
+    <string name="please_fill_subscription_code">Please fill subscription code</string>
+    <string name="code">Code</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="do_you_want_to_delete_image">Do you want to delete image?</string>
+    <string name="this_email_already_saved">This email already saved</string>
+    <string name="network_not_available_check_internet_connection">Network not available, check internet connection…</string>
+    <string name="are_you_alive">Are you alive?</string>
+    <string name="yes_i_am_alive">Yes I am Alive</string>
+    <string name="you_are_not_logged_in">You are not logged in</string>
+    <string name="device_nt_supportted">This device is not supported.</string>
+    <string name="signup">Sign Up</string>
+    <string name="subscription_plan">Subscription Plan</string>
+    <string name="subscription_code">Subscription Code</string>
+    <string name="enter_subscrption_code">Please enter subscription code</string>
+    <string name="about_us">About Us</string>
+    <string name="change_password_">Change Password</string>
+    <string name="edit_Profile">Edit Profile</string>
+    <string name="no_post_found">No Post Found</string>
+    <string name="editing_video_post">You are editing video post, please unselect images</string>
+    <string name="please_unselect_video">You are editing image post, please unselect video</string>
+    <string name="gallery">Gallery</string>
+    <string name="video">Video</string>
+    <string name="image_validation">You can upload either video or up to 3 images. What you want to upload?</string>
+    <string name="editing_image_post">You are editing image post</string>
+    <string name="editing_video_post_">You are editing video post</string>
+    <string name="life_time_validity">Life Time Validity</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="save_video">Save Video</string>
+    <string name="do_you_want_to_save_file">Do you want to save file?</string>
+    <string name="save">Save</string>
+    <string name="cancel_">Cancel</string>
+    <string name="nominated_email_1">Nominated Email 1</string>
+    <string name="nominated_email_2">Nominated Email 2</string>
+    <string name="nominated_email_3">Nominated Email 3</string>
+    <string name="let_them_know">Let them know</string>
+    <string name="system_activate">System Activate</string>
+    <string name="no_changes_made">No changes made</string>
+    <string name="please_upload_video">Please upload video</string>
+    <string name="no_video">No video</string>
+    <string name="_5000_words">50000 Words</string>
+    <string name="contact_number_is_not_valid">Contact number is not valid</string>
+    <string name="please_select_email_frequency_first">Please select email frequency first</string>
+    <string name="there_is_some_problem">there is some problem</string>
+    <string name="downloading">Downloading …</string>
+    <string name="capital_profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="no_changes">No changes</string>
+    <string name="edit_post">Edit Post</string>
+    <string name="please_select_video_from_gallery_again">Please select video from gallery again</string>
+    <string name="error">error</string>
+    <string name="uploading_dot">Uploading …</string>
+    <string name="downloading_dot">Downloading …</string>
+    <string name="upload">Upload</string>
+    <string name="please_again_select_video_from_gallery">Please again select video from gallery</string>
+    <string name="exception_changing_flashLight_mode">Exception changing flashLight mode</string>
+    <string name="sorry_your_phone_has_only_one_camera">Sorry, your phone has only one camera!</string>
+    <string name="sorry_your_phone_does_not_have_a_camera">Sorry, your phone does not have a camera!</string>
+    <string name="text">Text</string>
+    <string name="camera">Camera</string>
+    <string name="repeat_interval">Repeat Interval</string>
+    <string name="password_should_have_min_8_char">Password should have minimum 8 character.</string>
+    <string name="buy_plan_for">Buy Plan For </string>
+    <string name="continue_val">Update</string>
+    <string name="plan_name_changed">Plan Updated Successfully !</string>
+    <string name="already_taken">Plan already has been taken !</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="upload_text">Upload Text</string>
+    <string name="upload_record_video">Upload / Record Video</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="say_something_about_this_image">Say something about this Image...</string>
+    <string name="say_something_about_this_video">Say something about this video...</string>
+    <string name="plan_nominator_rename">Plan / Nominator Rename</string>
+    <string name="add_caption">Please Add caption of Image</string>
+    <string name="enter_contact_no">Please enter contact no.</string>
+    <string name="enter_min_10">Please enter minimum 10 numbers</string>
+
+</resources>

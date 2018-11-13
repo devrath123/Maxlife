@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_538ec506dd18f1e8970dfe9de1de501c02100c44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.2.0_f57edc3a0659d8421a5ff4eb2efb5dbb0ff91365/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/8401e77ed557b148a07929d281feae1268ed2844/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a53df1c2045b84c4057ae2eb3487912b37053fdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/544d1dcd724b7a586af1c9a33e581dda29728758/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_e284878f2725ed2c76a21665c895a74365d64288/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/c51acdaa65fff88092ae2487415b22bf791a49a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_feed51a6676522134556564bbcc0588cce816936/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/418b3468400002fad459580488aef76661891e53/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b1259973c702c79ec53f2be3be5aec57210c97a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6efcc2148989c1dea826078b928d8c69721b9573">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e946ef7b941b2065361213646e4a1976694ea71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.4.0_258fba396a5be34f91c01ff077e87103b966a7ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/libs/PayPalAndroidSDK-2.9.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="439a561dafd4296a4075314d508f814b8d938dfe">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/2/PayPalAndroidSDK-2.9.11_e4b219edf6f6796dd24efe0da93b7b4cc94898f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/fc7e58b694c434f2542a60eb7c5d6df13d85648f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88a65294f57d2501d82e6101ba9389c7b1dc03c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/b4c6f6aca810164f52297c6e559c33e8e44f1abe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68bdfa66c7e22231438f176491c76e8dfb099c45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/cdcf250d031a32203e9869bd00746b0bc71c4b87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_343bc3d8244920e23c6588397c457114be8a7832/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/5839b1932cdf848d29a73ef174f946e2d6512882/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3a9ca22009207c89fd836bf0d1840d4cce13f1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-6.1.0_35a71e3b776f449c3fac72c12ba9313a468d352b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/d4aa7132ff2399c0a5f60283ec36e145d5f9698b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e56214b892be0663e17376affcc31f9897c4ccf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/767e1754d57c5c2391fbf1c3536f0c2184466635/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88d8b95c649d3b8a0844430ebbe8ba0248c65532/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_cc0f0ffcbc62b67a198b60854dbff95c354e1cec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/544d1dcd724b7a586af1c9a33e581dda29728758/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be2544b0c8743c58d4a09fea28155498716108d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_8e62060171477b19b54dd6621579eff8593c0af0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_9054a3fe678d65f12e7ad0a97ee4cea81eec2559/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3007c717c6f945e25b562a9fad82610d895e0b16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/e1c8f3795f1de9afa485f4de6fb9f1f090da9cf5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3305fe8fabbf56b45fa503d29d691bc84290ff23">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_28e846ed22e77e66cc089c12cfa1e664d109fac9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/3569f6a23ebebf96c1595c9effd78ca0fec1c866/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_025a94ba65305c6b7aee2beb7f65b727176acbd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devrathrathee/.android/build-cache/8e7be645b3fed02d78cdd30d67d208c4e2a7a908/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f32e27525692a91f6c758f084530bc85257fa5c9">
+        <dex dex="/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c20beee2d2992a41a1fc7e8669ddcb7d0f79260/classes.dex" />
+    </item>
+
+</items>

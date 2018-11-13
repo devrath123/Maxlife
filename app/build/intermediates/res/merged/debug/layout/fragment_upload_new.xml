@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/uploadLL"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/tabLayoutLL"
+        android:orientation="vertical" />
+
+    <LinearLayout
+        android:id="@+id/tabLayoutLL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/button_color"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:weightSum="2">
+
+        <RelativeLayout
+            android:id="@+id/tab1"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/_50dp"
+            android:layout_weight="1"
+            android:background="@color/button_color">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/ic_gallary_tab"
+                android:padding="@dimen/_8dp"
+                android:layout_centerInParent="true"/>
+
+            <View
+                android:id="@+id/divider1"
+                android:layout_width="@dimen/_1dp"
+                android:layout_height="@dimen/_25dp"
+                android:background="@color/white"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"/>
+
+            <View
+                android:id="@+id/tabSelectedView1V"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_3dp"
+                android:background="@color/colorPrimary"
+                android:layout_alignParentBottom="true"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/tab2"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/_50dp"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:background="@color/button_color">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/ic_text_add_tab"
+                android:padding="@dimen/_8dp"
+                android:layout_centerInParent="true"/>
+
+            <View
+                android:id="@+id/divider2"
+                android:layout_width="@dimen/_1dp"
+                android:layout_height="@dimen/_25dp"
+                android:background="@color/white"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"/>
+
+            <View
+                android:id="@+id/tabSelectedView2V"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_3dp"
+                android:background="@color/colorPrimary"
+                android:layout_alignParentBottom="true"
+                android:visibility="gone"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/tab3"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/_50dp"
+            android:layout_weight="1"
+            android:background="@color/button_color">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/ic_camera_tab"
+                android:padding="@dimen/_8dp"
+                android:layout_centerInParent="true"/>
+
+            <View
+                android:id="@+id/divider3"
+                android:layout_width="@dimen/_1dp"
+                android:layout_height="@dimen/_25dp"
+                android:background="@color/white"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"/>
+
+            <View
+                android:id="@+id/tabSelectedView3V"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_3dp"
+                android:background="@color/colorPrimary"
+                android:layout_alignParentBottom="true"
+                android:visibility="gone"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/tab4"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/_50dp"
+            android:layout_weight="1"
+            android:background="@color/button_color">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/ic_video_tab"
+                android:padding="@dimen/_8dp"
+                android:layout_centerInParent="true"/>
+
+            <View
+                android:id="@+id/tabSelectedView4V"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_3dp"
+                android:background="@color/colorPrimary"
+                android:layout_alignParentBottom="true"
+                android:visibility="gone"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

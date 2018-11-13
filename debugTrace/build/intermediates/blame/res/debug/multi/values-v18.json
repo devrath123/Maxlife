@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/local/TOXSL/kajal.rawal/Workspace/Max Life/debugTrace/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/home/local/TOXSL/kajal.rawal/.android/build-cache/a628e5a016b9f68dfdbcaa2b440332ac5aad68e6/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 48,
+                        "endOffset": 335
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/devrathrathee/Desktop/Source Codes/Max Life/debugTrace/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/devrathrathee/.android/build-cache/15bd08022f5b386c7ee6602f54a4650c66977bfc/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 48,
+                        "endOffset": 335
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/emailFrequencyRL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:orientation="vertical"
+            android:padding="@dimen/_20dp">
+
+            <TextView
+                android:id="@+id/textEmailFrequency"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/set_email_frequency"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_18sp" />
+
+            <TextView
+                android:id="@+id/emailFrequencyTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_toRightOf="@+id/textEmailFrequency"
+                android:gravity="right"
+                android:textSize="@dimen/_14sp" />
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1dp"
+            android:background="#e4e4e4" />
+
+        <RelativeLayout
+            android:id="@+id/repeatFrequencyRL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:orientation="vertical"
+            android:padding="@dimen/_20dp">
+
+            <TextView
+                android:id="@+id/textrepeat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/repeat"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_18sp" />
+
+            <TextView
+                android:id="@+id/repeatFrequencyTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="@dimen/_2dp"
+                android:layout_toRightOf="@+id/textrepeat"
+                android:gravity="right"
+                android:textSize="@dimen/_14sp" />
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1dp"
+            android:background="#e4e4e4" />
+
+        <RelativeLayout
+            android:id="@+id/changePasswordRL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:orientation="vertical"
+            android:padding="@dimen/_20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/change_password"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_18sp" />
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1dp"
+            android:background="#e4e4e4" />
+
+        <LinearLayout
+            android:id="@+id/email_1LL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/_15dp"
+            android:paddingLeft="@dimen/_20dp"
+            android:paddingRight="@dimen/_20dp"
+            android:paddingTop="@dimen/_15dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/nominated_email_1"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_18sp" />
+
+            <TextView
+                android:id="@+id/email1TV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_14sp" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1dp"
+            android:background="#e4e4e4" />
+
+        <LinearLayout
+            android:id="@+id/email2LL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/_15dp"
+            android:paddingLeft="@dimen/_20dp"
+            android:paddingRight="@dimen/_20dp"
+            android:paddingTop="@dimen/_15dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/nominated_email_2"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_18sp" />
+
+            <TextView
+                android:id="@+id/email2TV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_14sp" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1dp"
+            android:background="#e4e4e4" />
+
+        <LinearLayout
+            android:id="@+id/email3LL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/_15dp"
+            android:paddingLeft="@dimen/_20dp"
+            android:paddingRight="@dimen/_20dp"
+            android:paddingTop="@dimen/_15dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/nominated_email_3"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_18sp" />
+
+            <TextView
+                android:id="@+id/email3TV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_14sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1dp"
+            android:background="#e4e4e4" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/_15dp"
+            android:paddingLeft="@dimen/_20dp"
+            android:paddingRight="@dimen/_20dp"
+            android:paddingTop="@dimen/_15dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/let_them_know"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_18sp" />
+
+                <Switch
+                    android:id="@+id/knowSW"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1dp"
+            android:background="#e4e4e4" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/_15dp"
+            android:paddingLeft="@dimen/_20dp"
+            android:paddingRight="@dimen/_20dp"
+            android:paddingTop="@dimen/_15dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/system_activate"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_18sp" />
+
+                <Switch
+                    android:id="@+id/systemSW"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1dp"
+            android:background="#e4e4e4" />
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4dc000</color>
+    <color name="colorPrimaryDark">#209536</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="button_color">#AB333733</color>
+    <color name="button_pressed_color">#456765</color>
+
+    <color name="subscription_main_box_color">#7b7b7b</color>
+    <color name="subscription_plan_detail_text_color">#373737</color>
+
+    <color name="drawer_background_color">#bb000000</color>
+    <color name="show_bg">#DADADA</color>
+    <color name="SkyBlue">#4bc4d4</color>
+
+</resources>

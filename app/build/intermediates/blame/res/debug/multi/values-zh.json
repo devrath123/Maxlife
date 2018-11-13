@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/Users/devrathrathee/Desktop/Source Codes/Max Life/MulipleImageSelector/build/intermediates/bundles/default/res/values-zh/values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 43,
+                    "endOffset": 137
+                },
+                "from": {
+                    "file": "/Users/devrathrathee/Desktop/Source Codes/Max Life/MulipleImageSelector/build/intermediates/bundles/default/res/values-zh/values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 43,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 142,
+                    "endColumn": 55,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "/Users/devrathrathee/Desktop/Source Codes/Max Life/MulipleImageSelector/build/intermediates/bundles/default/res/values-zh/values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 55,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 48,
+                    "endOffset": 242
+                },
+                "from": {
+                    "file": "/Users/devrathrathee/Desktop/Source Codes/Max Life/MulipleImageSelector/build/intermediates/bundles/default/res/values-zh/values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 48,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 247,
+                    "endColumn": 38,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "/Users/devrathrathee/Desktop/Source Codes/Max Life/MulipleImageSelector/build/intermediates/bundles/default/res/values-zh/values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 38,
+                        "endOffset": 281
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '25.0.0'
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "com.maxlife"
+        minSdkVersion 16
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+
+    signingConfigs {
+        release {
+            storeFile file("key.jks")
+            storePassword "MaxLifeMaxLife"
+            keyAlias "MaxLifeMaxLife"
+            keyPassword "MaxLifeMaxLife"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            def project = "maxlife"
+            def separator = "_"
+            /*def flavor = variant.productFlavors[0].name*/
+            def buildType = variant.variantData.variantConfiguration.buildType.name
+            def versionName = variant.versionName
+            def versionCode = variant.versionCode
+            def date = new Date();
+            def formattedDate = date.format('yyyy_MM_dd')
+            if (variant.buildType.name == "release") {
+                def newApkName = project + separator + "v" + versionName + separator + versionCode + separator + buildType + separator + formattedDate + ".apk"
+                output.outputFile = new File(output.outputFile.parent, newApkName)
+            }
+            if (variant.buildType.name == "debug") {
+                def newApkName = project + separator + "v" + versionName + separator + versionCode + separator + buildType + ".apk"
+                output.outputFile = new File(output.outputFile.parent, newApkName)
+            }
+        }
+    }
+
+    lintOptions {
+
+        checkReleaseBuilds false
+
+    }
+
+
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('libs/PayPalAndroidSDK-2.9.11.jar')
+    compile project(':MulipleImageSelector')
+    compile project(':smartImageView-release')
+    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'com.android.support:cardview-v7:23.1.1'
+    compile 'com.android.support:design:23.1.1'
+    compile 'com.squareup.picasso:picasso:2.3.2'
+    compile 'com.github.bumptech.glide:glide:3.5.2'
+    compile 'jp.wasabeef:glide-transformations:2.0.2'
+    compile project(':SyncManager(v.2.0)')
+    compile 'com.jakewharton:butterknife:6.1.0'
+    compile 'com.facebook.android:facebook-android-sdk:4.7.0'
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile 'com.google.android.gms:play-services-gcm:9.0.0'
+    compile 'cz.msebera.android:httpclient:4.3.6'
+    compile 'com.android.support:support-v4:23.4.0'
+    testCompile 'junit:junit:4.12'
+    compile project(':debugTrace')
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Max Life.iml" filepath="$PROJECT_DIR$/Max Life.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MulipleImageSelector/MulipleImageSelector.iml" filepath="$PROJECT_DIR$/MulipleImageSelector/MulipleImageSelector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SyncManager(v.2.0)/SyncManager(v.2.0).iml" filepath="$PROJECT_DIR$/SyncManager(v.2.0)/SyncManager(v.2.0).iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debugTrace/debugTrace.iml" filepath="$PROJECT_DIR$/debugTrace/debugTrace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartImageView-release/smartImageView-release.iml" filepath="$PROJECT_DIR$/smartImageView-release/smartImageView-release.iml" />
+    </modules>
+  </component>
+</project>

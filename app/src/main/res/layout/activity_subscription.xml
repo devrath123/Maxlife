@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/_30dp"
+    android:layout_marginLeft="@dimen/_30dp"
+    android:layout_marginRight="@dimen/_30dp"
+    android:layout_marginBottom="@dimen/_15dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottomLL"
+        android:background="@drawable/subscription_plan_box"
+        android:orientation="vertical"
+        android:padding="@dimen/_1dp">
+
+        <TextView
+            android:id="@+id/headingTextTV"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#f0f0f0"
+            android:gravity="center"
+            android:padding="@dimen/_10dp"
+            android:text="@string/life_time_validity"
+            android:textColor="#0f0f0f" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/plansDetailsLL"
+            android:layout_below="@+id/headingTextTV">
+
+            <ImageView
+                android:layout_width="@dimen/_150dp"
+                android:layout_height="@dimen/_150dp"
+                android:layout_gravity="center"
+                android:background="@mipmap/ic_polygon" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="$"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_28sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/planPriceTV"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_3dp"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_64sp" />
+
+            </LinearLayout>
+
+        </FrameLayout>
+
+        <LinearLayout
+            android:id="@+id/plansDetailsLL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="@dimen/_10dp"
+            android:layout_marginLeft="@dimen/_40dp"
+            android:layout_marginRight="@dimen/_40dp"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:text="@string/video_limit"
+                    android:textColor="@color/subscription_plan_detail_text_color"
+                    android:textSize="@dimen/_14sp" />
+
+                <TextView
+                    android:id="@+id/videoLimitTV"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/_3_minutes"
+                    android:textColor="@color/subscription_plan_detail_text_color"
+                    android:textSize="@dimen/_14sp" />
+
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_1dp"
+                android:background="#d0d0d0" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:text="@string/pictures_limit"
+                    android:textColor="@color/subscription_plan_detail_text_color"
+                    android:textSize="@dimen/_14sp" />
+
+                <TextView
+                    android:id="@+id/pictureLimitTV"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/_3_pictures"
+                    android:textColor="@color/subscription_plan_detail_text_color"
+                    android:textSize="@dimen/_14sp" />
+
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_1dp"
+                android:background="#d0d0d0" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:text="@string/text_limit"
+                    android:textColor="@color/subscription_plan_detail_text_color"
+                    android:textSize="@dimen/_14sp" />
+
+                <TextView
+                    android:id="@+id/wordLimitTV"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/_5000_words"
+                    android:textColor="@color/subscription_plan_detail_text_color"
+                    android:textSize="@dimen/_14sp" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/bottomLL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="@dimen/_15dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/upgradePlanBT"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_selector"
+            android:minHeight="0dp"
+            android:padding="@dimen/_10dp"
+            android:text="@string/upgrade"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_16sp" />
+
+        <Button
+            android:id="@+id/codeBT"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_15dp"
+            android:background="@drawable/button_selector"
+            android:minHeight="0dp"
+            android:padding="@dimen/_10dp"
+            android:text="@string/subscription_code"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_16sp" />
+
+    </LinearLayout>
+
+</RelativeLayout>

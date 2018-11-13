@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/folder_text_color.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/MulipleImageSelector/build/intermediates/bundles/default/res/color/folder_text_color.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/b4c6f6aca810164f52297c6e559c33e8e44f1abe/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/b4c6f6aca810164f52297c6e559c33e8e44f1abe/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/b4c6f6aca810164f52297c6e559c33e8e44f1abe/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/default_text_color.xml",
+        "source": "/Users/devrathrathee/Desktop/Source Codes/Max Life/MulipleImageSelector/build/intermediates/bundles/default/res/color/default_text_color.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/b4c6f6aca810164f52297c6e559c33e8e44f1abe/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/devrathrathee/Desktop/Source Codes/Max Life/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/devrathrathee/.android/build-cache/eef79099dcda7c828f1a2a4a3876046dd946e07c/output/res/color/switch_thumb_material_light.xml"
+    }
+]

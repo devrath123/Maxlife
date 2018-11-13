@@ -1,0 +1,369 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:2:1-157:12
+	package
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:3:5-26
+		INJECTED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml
+		INJECTED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml
+		INJECTED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml
+		INJECTED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/6e9000f1f95c93ffd1fbeffa0b951ad96f359395/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/49d233c15480695fe24f2420d43537eebc35548a/output/AndroidManifest.xml:22:5-67
+MERGED from [Max Life:debugTrace:unspecified] /home/local/TOXSL/kajal.rawal/Workspace/Max Life/debugTrace/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:9:22-65
+uses-permission#android.permission.CAMERA
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:13:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:14:19-67
+uses-feature#android.hardware.camera.front
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:16:9-53
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:19:22-68
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:22:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/6e9000f1f95c93ffd1fbeffa0b951ad96f359395/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/49d233c15480695fe24f2420d43537eebc35548a/output/AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:22:22-79
+uses-permission#com.google.android.c2dm.permission.SEND
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:23:22-76
+application
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:26:5-155:19
+MERGED from [Max Life:MulipleImageSelector:unspecified] /home/local/TOXSL/kajal.rawal/Workspace/Max Life/MulipleImageSelector/build/intermediates/bundles/default/AndroidManifest.xml:9:5-10:19
+MERGED from [Max Life:smartImageView-release:unspecified] /home/local/TOXSL/kajal.rawal/.android/build-cache/97b2cf9a1ed44fe5b483468e5e7a9879bfae7909/output/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:cardview-v7:23.1.1] /home/local/TOXSL/kajal.rawal/.android/build-cache/1091f0a90db5cd24b576b072572be5dad3453806/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] /home/local/TOXSL/kajal.rawal/.android/build-cache/e0a2eb2d4a8202a4bfde56b2b18e77f3c2ed23d8/output/AndroidManifest.xml:22:5-20
+MERGED from [Max Life:SyncManager(v.2.0):unspecified] /home/local/TOXSL/kajal.rawal/Workspace/Max Life/SyncManager(v.2.0)/build/intermediates/bundles/default/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/2423469c5e51636a8e7f2803b4d08c9fe23510cb/output/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/6e9000f1f95c93ffd1fbeffa0b951ad96f359395/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/49d233c15480695fe24f2420d43537eebc35548a/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/572fec50ed6a1dc7e7cf2dba33fdb8cd82168ef7/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/8e0ffe0a1ee9a8dd4b35868f4953dcb561bc6176/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/b038d5307b51c8b3eb197513e8c9b37ee2626c94/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/6cf39dabe3038ac202b0c1025b25c0da0258cb2c/output/AndroidManifest.xml:20:5-24:19
+MERGED from [Max Life:debugTrace:unspecified] /home/local/TOXSL/kajal.rawal/Workspace/Max Life/debugTrace/build/intermediates/bundles/default/AndroidManifest.xml:13:5-18:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/local/TOXSL/kajal.rawal/.android/build-cache/bdc54c69606e503a744d56ad8da6f806d5cf7d6b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/5d0f5c81e5b55aa9009663c1d24714f9c7ee3d26/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:30:9-41
+	android:supportsRtl
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:32:9-35
+	android:hardwareAccelerated
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:28:9-44
+	android:icon
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:29:9-43
+	android:largeHeap
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:31:9-33
+	android:allowBackup
+		ADDED from [Max Life:MulipleImageSelector:unspecified] /home/local/TOXSL/kajal.rawal/Workspace/Max Life/MulipleImageSelector/build/intermediates/bundles/default/AndroidManifest.xml:9:18-44
+	android:theme
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:33:9-42
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:27:9-45
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:36:9-46:20
+	android:exported
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:39:13-73
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:37:13-66
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.maxlife.gcm
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:40:13-45:29
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:41:17-86
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:41:25-83
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:42:25-78
+category#com.maxlife.gcm
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:44:17-60
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:44:27-57
+service#com.maxlife.MyGcmListenerService
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:48:9-54:19
+	android:exported
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:49:13-60
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:51:13-53:29
+service#com.maxlife.MyInstanceIDListenerService
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:55:9-61:19
+	android:exported
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:56:13-67
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:58:13-60:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:59:17-80
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:59:25-77
+service#com.maxlife.MyRegistrationIntentService
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:63:9-65:48
+	android:exported
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:64:13-56
+activity#com.maxlife.activity.SplashActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:68:9-76:20
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:70:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:69:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:71:13-75:29
+action#android.intent.action.MAIN
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:72:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:74:27-74
+activity#com.maxlife.customvideorecorder.CameraActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:77:9-79:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:78:13-63
+activity#com.maxlife.activity.MainActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:80:9-83:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:83:13-49
+	android:configChanges
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:82:13-87
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:81:13-50
+activity#com.maxlife.activity.UploadActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:84:9-86:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:86:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:85:13-52
+activity#com.maxlife.activity.SignInActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:87:9-89:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:89:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:88:13-52
+activity#com.maxlife.activity.SignUpActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:90:9-92:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:92:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:91:13-52
+activity#com.maxlife.activity.ForgotPasswordActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:93:9-95:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:95:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:94:13-60
+activity#com.maxlife.activity.SubscriptionActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:96:9-98:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:97:13-58
+activity#com.maxlife.activity.SubscriptionCodeActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:99:9-101:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:100:13-62
+activity#com.maxlife.socialLogin.FacebookLogin
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:102:9-104:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:104:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:103:13-54
+activity#com.maxlife.activity.PaypalPaymentActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:107:9-109:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:108:13-59
+activity#com.paypal.android.sdk.payments.FuturePaymentInfoActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:110:9-112:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:112:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:111:13-85
+activity#com.paypal.android.sdk.payments.PayPalFuturePaymentActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:113:9-115:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:115:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:114:13-87
+activity#com.paypal.android.sdk.payments.LoginActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:116:9-118:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:118:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:117:13-73
+activity#com.paypal.android.sdk.payments.FuturePaymentConsentActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:119:9-121:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:121:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:120:13-88
+activity#com.paypal.android.sdk.payments.PaymentActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:122:9-124:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:124:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:123:13-75
+activity#com.paypal.android.sdk.payments.PaymentConfirmActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:125:9-127:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:127:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:126:13-82
+activity#com.paypal.android.sdk.payments.PaymentMethodActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:128:9-130:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:130:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:129:13-81
+activity#io.card.payment.CardIOActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:131:9-134:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:134:13-49
+	android:configChanges
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:133:13-63
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:132:13-58
+activity#io.card.payment.DataEntryActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:135:9-137:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:137:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:136:13-61
+activity#me.nereo.multi_image_selector.MultiImageSelectorActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:138:9-140:52
+	android:screenOrientation
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:140:13-49
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:139:13-84
+service#com.paypal.android.sdk.payments.PayPalService
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:143:9-145:40
+	android:exported
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:145:13-37
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:144:13-73
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:147:9-149:49
+	android:value
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:149:13-46
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:148:13-58
+activity#com.facebook.FacebookActivity
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:150:9-152:37
+	android:label
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:152:13-34
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:151:13-57
+service#com.maxlife.service.DownloadService
+ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:154:9-60
+	android:name
+		ADDED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml:154:18-57
+uses-sdk
+INJECTED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /home/local/TOXSL/kajal.rawal/.android/build-cache/21007d17e13f276d32da9093b31124f8aff8cabc/output/AndroidManifest.xml:18:5-42
+MERGED from [Max Life:MulipleImageSelector:unspecified] /home/local/TOXSL/kajal.rawal/Workspace/Max Life/MulipleImageSelector/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
+MERGED from [Max Life:smartImageView-release:unspecified] /home/local/TOXSL/kajal.rawal/.android/build-cache/97b2cf9a1ed44fe5b483468e5e7a9879bfae7909/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:23.1.1] /home/local/TOXSL/kajal.rawal/.android/build-cache/1091f0a90db5cd24b576b072572be5dad3453806/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] /home/local/TOXSL/kajal.rawal/.android/build-cache/e0a2eb2d4a8202a4bfde56b2b18e77f3c2ed23d8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /home/local/TOXSL/kajal.rawal/.android/build-cache/1b189759af13650cee763467c4d0cc7f40158988/output/AndroidManifest.xml:20:5-43
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] /home/local/TOXSL/kajal.rawal/.android/build-cache/d16bbb15da0a9719c0028ae8770c1dc3d5c71929/output/AndroidManifest.xml:8:5-10:41
+MERGED from [Max Life:SyncManager(v.2.0):unspecified] /home/local/TOXSL/kajal.rawal/Workspace/Max Life/SyncManager(v.2.0)/build/intermediates/bundles/default/AndroidManifest.xml:7:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/2423469c5e51636a8e7f2803b4d08c9fe23510cb/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/6e9000f1f95c93ffd1fbeffa0b951ad96f359395/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/49d233c15480695fe24f2420d43537eebc35548a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/572fec50ed6a1dc7e7cf2dba33fdb8cd82168ef7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/8e0ffe0a1ee9a8dd4b35868f4953dcb561bc6176/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/b038d5307b51c8b3eb197513e8c9b37ee2626c94/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/6cf39dabe3038ac202b0c1025b25c0da0258cb2c/output/AndroidManifest.xml:18:5-42
+MERGED from [Max Life:debugTrace:unspecified] /home/local/TOXSL/kajal.rawal/Workspace/Max Life/debugTrace/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/local/TOXSL/kajal.rawal/.android/build-cache/bdc54c69606e503a744d56ad8da6f806d5cf7d6b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/5d0f5c81e5b55aa9009663c1d24714f9c7ee3d26/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml
+		INJECTED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml
+		INJECTED from /home/local/TOXSL/kajal.rawal/Workspace/Max Life/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/572fec50ed6a1dc7e7cf2dba33fdb8cd82168ef7/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/572fec50ed6a1dc7e7cf2dba33fdb8cd82168ef7/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/572fec50ed6a1dc7e7cf2dba33fdb8cd82168ef7/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/572fec50ed6a1dc7e7cf2dba33fdb8cd82168ef7/output/AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/8e0ffe0a1ee9a8dd4b35868f4953dcb561bc6176/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/8e0ffe0a1ee9a8dd4b35868f4953dcb561bc6176/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/8e0ffe0a1ee9a8dd4b35868f4953dcb561bc6176/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/8e0ffe0a1ee9a8dd4b35868f4953dcb561bc6176/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/8e0ffe0a1ee9a8dd4b35868f4953dcb561bc6176/output/AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/6cf39dabe3038ac202b0c1025b25c0da0258cb2c/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/6cf39dabe3038ac202b0c1025b25c0da0258cb2c/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /home/local/TOXSL/kajal.rawal/.android/build-cache/6cf39dabe3038ac202b0c1025b25c0da0258cb2c/output/AndroidManifest.xml:22:13-58
+activity#com.toxsl.trace.TraceActivity
+ADDED from [Max Life:debugTrace:unspecified] /home/local/TOXSL/kajal.rawal/Workspace/Max Life/debugTrace/build/intermediates/bundles/default/AndroidManifest.xml:14:9-17:20
+	android:label
+		ADDED from [Max Life:debugTrace:unspecified] /home/local/TOXSL/kajal.rawal/Workspace/Max Life/debugTrace/build/intermediates/bundles/default/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from [Max Life:debugTrace:unspecified] /home/local/TOXSL/kajal.rawal/Workspace/Max Life/debugTrace/build/intermediates/bundles/default/AndroidManifest.xml:15:13-57
